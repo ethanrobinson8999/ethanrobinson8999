@@ -1,17 +1,17 @@
-# Hey there, I'm Ethan Robinson 👋
+# Hi there, I'm Ethan! 👋
 
-I'm a creative frontend engineer based out of the United States. When I'm not crafting digital experiences, you can find me experimenting with generative art, playing around with shaders, or just daydreaming about the next big thing in web development.
+を中心に、日々の挑戦と成長を楽しんでいます。スイスの美しい風景を眺めつつ、Pythonを用いた自動化プロジェクトと機械学習の研究開発に没頭しています。最近はFastAPIとPyTorchを使ってREST APIの構築とモデルの訓練に力を入れています。Redisを使ってデータを効率的に管理することも大好きFuck the template, let’s keep it real!
 
-### What I'm Into:
-- Building interactive and visually stunning web applications.
-- Exploring the intersection of art and technology.
-- Learning new frameworks and tools to push my boundaries.
+### What I'm Into
+- Automation & Machine Learning
+- Building efficient, scalable systems
+- Exploring the outdoors in Switzerland
 
-### Tech Stack:
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5 Canvas](https://img.shields.io/badge/HTML5%20Canvas-000000?style=for-the-badge&logo=html5&logoColor=white)
-![WebGL](https://img.shields.io/badge/WebGL-1F468B?style=for-the-badge&logo=webgl&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### Tech Stack
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=fff)
+![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI&logoColor=fff)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch&logoColor=fff)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis&logoColor=fff)
 
-### Currently Building:
-A procedural landscape generator that brings the beauty of natural terrains to your browser with every refresh. Stay tuned for updates!
+### Currently Building
+I'm currently building a smart irrigation system that uses machine learning to predict plant water needs based on weather forecasts and soil moisture sensors. Stay tuned!
